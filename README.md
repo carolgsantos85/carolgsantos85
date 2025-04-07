@@ -1,5 +1,3 @@
-https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient
-
 # Olá, eu sou a Caroline Gonçalves Santos! 👋
 
 🎓 **Formação:**  
