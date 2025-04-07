@@ -22,7 +22,7 @@ Em transição de carreira para a área de Banco de Dados, buscando oportunidade
 - LinkedIn: [linkedin.com/in/caroline-goncalves-santos](https://www.linkedin.com/in/caroline-goncalves-santos)
 
 🌟 **Projetos em Destaque:**
-- [Projeto SQL - Sistema de Controle de Biblioteca](https://github.com/carolgsantos85/projeto-sql-biblioteca): Desenvolvimento de um banco de dados para gerenciamento de empréstimos em uma biblioteca.
+- [Projeto SQL - Sistema de Vendas](https://github.com/carolgsantos85/projeto-sistema-vendas-sql): Desenvolvimento de um banco de dados para gerenciamento de empréstimos em uma biblioteca.
 
 ---
 
