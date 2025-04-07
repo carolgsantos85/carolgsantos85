@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou a Caroline Gonçalves Santos! 👋
 
-<!--
-**carolgsantos85/carolgsantos85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formação:**  
+- Graduanda em Gestão da Tecnologia da Informação.
+- Técnica em Informática pela Forma Brasil Educacional.
+- Técnica em Administração de Banco de Dados pelo SENAC.
 
-Here are some ideas to get you started:
+💼 **Experiência:**  
+- Experiência em Suporte Técnico de TI, focada em manutenção de hardware e software, atendimento ao usuário e resolução de problemas técnicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Interesses:**  
+- Banco de Dados Relacional (SQL, MySQL, PostgreSQL)
+- Análise de Dados
+- Segurança da Informação
+- Suporte Técnico e Infraestrutura de TI
+
+🚀 **Objetivo:**  
+Em transição de carreira para a área de Banco de Dados, buscando oportunidades de estágio para aplicar e aprofundar meus conhecimentos.
+
+📫 **Contato:**  
+- Email: carolinegsantos@gmail.com
+- LinkedIn: [linkedin.com/in/caroline-goncalves-santos](https://www.linkedin.com/in/caroline-goncalves-santos)
+
+🌟 **Projetos em Destaque:**
+- [Projeto SQL - Sistema de Controle de Biblioteca](https://github.com/carolgsantos85/projeto-sql-biblioteca): Desenvolvimento de um banco de dados para gerenciamento de empréstimos em uma biblioteca.
+
+---
+
