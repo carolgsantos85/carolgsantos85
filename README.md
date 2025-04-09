@@ -27,8 +27,8 @@ Modelagem completa de um sistema de banco de dados para gestão de um pet shop, 
 
 ## 📫 Como falar comigo?
 
-- 📧 caroline.seuemail@email.com *(trocar pelo seu real)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/) *(trocar pelo seu LinkedIn)*
+- 📧 carolinegsantos34@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/carolinesantosti/)
 
 ---
 🖥️ “Tecnologia não substitui talento, mas potencializa quem está disposto a aprender.”
