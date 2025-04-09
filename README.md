@@ -1,28 +1,34 @@
-# Olá, eu sou a Caroline Gonçalves Santos! 👋
+# 👋 Olá! Eu sou a Caroline Gonçalves Santos
 
-🎓 **Formação:**  
-- Graduanda em Gestão da Tecnologia da Informação.
-- Técnica em Informática pela Forma Brasil Educacional.
-- Técnica em Administração de Banco de Dados pelo SENAC.
-
-💼 **Experiência:**  
-- Experiência em Suporte Técnico de TI, focada em manutenção de hardware e software, atendimento ao usuário e resolução de problemas técnicos.
-
-💡 **Interesses:**  
-- Banco de Dados Relacional (SQL, MySQL, PostgreSQL)
-- Análise de Dados
-- Segurança da Informação
-- Suporte Técnico e Infraestrutura de TI
-
-🚀 **Objetivo:**  
-Em transição de carreira para a área de Banco de Dados, buscando oportunidades de estágio para aplicar e aprofundar meus conhecimentos.
-
-📫 **Contato:**  
-- Email: carolinegsantos@gmail.com
-- LinkedIn: [linkedin.com/in/caroline-goncalves-santos](https://www.linkedin.com/in/caroline-goncalves-santos)
-
-🌟 **Projetos em Destaque:**
-- [Projeto SQL - Sistema de Vendas](https://github.com/carolgsantos85/projeto-sistema-vendas-sql): Desenvolvimento de um banco de dados para gerenciamento de empréstimos em uma biblioteca.
+🎓 Estudante de Gestão da Tecnologia da Informação  
+🛠️ Técnica em Suporte de TI com foco em dados, banco de dados e estruturação de sistemas  
+📍 Apaixonada por transformar ideias em soluções com tecnologia  
+📚 Em constante aprendizado e evolução
 
 ---
 
+## 💼 Habilidades e Tecnologias
+
+- SQL (MySQL, PostgreSQL)
+- Modelagem de Banco de Dados
+- Suporte Técnico e Infraestrutura
+- Git e GitHub
+- Documentação e organização de projetos
+- Sistemas operacionais (Windows e Linux)
+
+---
+
+## 🚀 Projetos em destaque
+
+🟢 [Sistema de Banco de Dados para Pet Shop](https://github.com/carolinesantosti/projeto-software-petshop)  
+Modelagem completa de um sistema de banco de dados para gestão de um pet shop, com scripts, diagrama e documentação.
+
+---
+
+## 📫 Como falar comigo?
+
+- 📧 caroline.seuemail@email.com *(trocar pelo seu real)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/) *(trocar pelo seu LinkedIn)*
+
+---
+🖥️ “Tecnologia não substitui talento, mas potencializa quem está disposto a aprender.”
