@@ -63,7 +63,7 @@ Você pode conferir meus repositórios clicando [aqui](https://github.com/caroli
 ### 📊 Estatísticas do GitHub:
 
 ![Carol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&theme=radical)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carolsantosti&layout=compact&theme=dracula).
 
 ---
 
