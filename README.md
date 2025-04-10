@@ -67,7 +67,7 @@ Você pode conferir meus repositórios clicando [aqui](https://github.com/caroli
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
 </a>  
 <a href="https://github.com/carolinesantosti">    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&langs_count=8&card_width=220&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&langs_count=8&card_width=180&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
 </a>
 
       
