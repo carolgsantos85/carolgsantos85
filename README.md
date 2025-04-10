@@ -1,5 +1,5 @@
 ## 👋 Olá, mundo! 🌎  
-### Eu sou a Caroline Gonçalves Santos!
+### Eu sou a Caroline Santos!
 
 🎯 **Futura Analista de Dados | Técnica de Suporte de TI | Apaixonada por dados e tecnologia**
 
