@@ -1,7 +1,7 @@
 ## 👋 Olá, mundo! 🌎  
-### Eu sou a Caroline Santos!
+### Eu sou a Caroline Gonçalves Santos!
 
-🎯 **Futura Analista de Dados | Técnica de Suporte de TI | Apaixonada por dados e tecnologia**
+🎯 **Futura Programadora em Python | Analista de Dados | Técnica de Suporte de TI | Apaixonada por dados e tecnologia**
 
 ---
 
@@ -18,6 +18,7 @@ Busco causar impacto positivo por onde passo e estou sempre pronta pra aprender 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -41,7 +42,7 @@ Você pode conferir meus repositórios clicando [aqui](https://github.com/caroli
 
 ### 👤 Sobre mim:
 - 📍 Moro atualmente em **Angra dos Reis/RJ**
-- 📋 Experiência com suporte técnico, banco de dados e automação
+- 📋 Experiência com suporte técnico
 - 💻 Adoro organizar e documentar sistemas com clareza
 
 ---
@@ -62,12 +63,14 @@ Você pode conferir meus repositórios clicando [aqui](https://github.com/caroli
 
 ### 📊 Estatísticas do GitHub:
 
-![Carol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=radical)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carolsantosti&layout=compact&theme=dracula).
+<a href="https://github.com/carolinesantosti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
+</a>  
+<a href="https://github.com/carolinesantosti">    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&langs_count=8&card_width=220&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
+</a>
 
+      
 ---
 
 _✨ Obrigada por visitar meu perfil! Vamos construir coisas incríveis juntas(os)!_
-
-
-<p align="center">"Tecnologia é a ponte entre ideias e soluções. E eu tô aqui pra atravessar essa ponte todos os dias."</p>
