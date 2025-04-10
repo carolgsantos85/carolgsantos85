@@ -1,53 +1,73 @@
-<h1 align="center">👩‍💻 Caroline Santos</h1>
-<p align="center">Estudante de GTI | Técnica em Suporte | Apaixonada por Banco de Dados</p>
+## 👋 Olá, mundo! 🌎  
+### Eu sou a Caroline Gonçalves Santos!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHY0aWoxOHVsd2xscjViMThjcm5obnZlZDJsa3NtZjhjd2tsZzExbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc1fB9pSkzZ0P7Di/giphy.gif" width="300"/>
-</p>
+🎯 **Futura Analista de Dados | Técnica de Suporte de TI | Apaixonada por dados e tecnologia**
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Estudante de **Gestão da Tecnologia da Informação**
-- 💼 Técnica de Suporte de TI com foco em banco de dados
-- 🧠 Aprendendo sempre: **SQL**, **Python**, **Git** e muito mais
-- 🎯 Buscando oportunidades como **Analista de Banco de Dados**, **Suporte Técnico**
+💡 Meu objetivo é crescer profissionalmente, aplicando meus conhecimentos com organização, automação e foco em dados.  
+Busco causar impacto positivo por onde passo e estou sempre pronta pra aprender mais!
 
 ---
 
-## 🛠️ Tecnologias que uso
+### 🛠️ Tecnologias / Ferramentas / Linguagens:
 
-![SQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)
-
-
----
-
-## 📌 Projetos em destaque
-
-- 🔹 [Sistema Pet Shop (SQL)](https://github.com/carolinesantosti/projeto-software-petshop)  
-  Banco de dados relacional com modelagem completa, povoamento, diagrama ER e documentação técnica.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🎉 Fun Facts
-
-✨ Tenho paixão por organizar tudo — até meus arquivos têm README!  
-🐶 Amo pets e unir isso com tecnologia foi a inspiração do meu primeiro projeto.  
-🧩 Adoro desafios lógicos e mexer com dados.  
-🚀 Já estou de olho no próximo projeto com automação de faturas e dashboard!
+### 📚 Atualmente estudando:
+- 🎓 Cursando **Gestão da Tecnologia da Informação** – Previsão de conclusão: **Março/2026**
+- 💻 Curso de **Python do Zero ao Avançado**
+- 🗄️ Prática com **Banco de Dados** (modelagem e manipulação)
 
 ---
 
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/carolinesantosti/) 
-- [GitHub](https://github.com/carolinesantosti)  
-- Email: **carolinegsantos34@gmail.com**
+### 🔜 Próximos passos:
+- 🚀 Projetos com **Python aplicado à Análise de Dados**
+- 📊 Aprimorar a visualização e interpretação de dados
 
 ---
+
+### 💼 Meus projetos:
+Você pode conferir meus repositórios clicando [aqui](https://github.com/carolinesantosti?tab=repositories) 🚀
+
+---
+
+### 👤 Sobre mim:
+- 📍 Moro atualmente em **Angra dos Reis/RJ**
+- 📋 Experiência com suporte técnico, banco de dados e automação
+- 💻 Adoro organizar e documentar sistemas com clareza
+
+---
+
+### 🧠 Fun facts:
+- 🐾 Amo cachorros e gatos
+- 📺 Sou viciada em séries
+- 🏐 Pratico futevôlei e amo esse esporte
+- ☕ Café é meu melhor amigo na hora do código
+
+---
+
+### 📬 Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinesantosti/)
+[![Email](https://img.shields.io/badge/Email-carolinegsantos34@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carolinegsantos34@gmail.com)
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+![Carol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&theme=radical)
+
+---
+
+_✨ Obrigada por visitar meu perfil! Vamos construir coisas incríveis juntas(os)!_
+
 
 <p align="center">"Tecnologia é a ponte entre ideias e soluções. E eu tô aqui pra atravessar essa ponte todos os dias."</p>
