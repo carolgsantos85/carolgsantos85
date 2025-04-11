@@ -63,11 +63,11 @@ Você pode conferir meus repositórios clicando [aqui](https://github.com/caroli
 
 ### 📊 Estatísticas do GitHub:
 
-<a href="https://github.com/carolinesantosti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
-</a>  
-<a href="https://github.com/carolinesantosti">    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&langs_count=8&card_width=180&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=outrun" />
+</a>
+<a href="https://github.com/carolinesantosti/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinesantosti&theme=outrun&layout=compact&langs_count=8&card_width=100" />
 </a>
 
       
